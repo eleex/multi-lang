@@ -1,0 +1,12 @@
+<div class="row justify-content-end">
+  <div class="col-5 col-lg-3">
+    <div class="form-group">
+      <label>{{ "app-languages.select" | translate }}</label>
+      <select #langselect (change)="translate.use(langselect.value)" class="form-control">
+        <option *ngFor="let lang of translate.getLangs()" [value]="lang">
+          {{ 'app-languages.' + lang | translate }}
+        </option>
+      </select>
+    </div>
+  </div>
+</div>

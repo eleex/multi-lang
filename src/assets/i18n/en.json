@@ -1,0 +1,51 @@
+{
+  "app-languages": {
+    "select": "Select Language",
+    "en": "English",
+    "uk": "Ukrainian"
+  },
+  "app-login": {
+    "form-title": "Login",
+    "login-placeholder": "Enter login",
+    "password-placeholder": "Enter password",
+    "btn-submit": "Signin",
+    "incorrect": "Incorrect login or password."
+  },
+  "app-home": {
+    "name": "Budzynskyi Oleksii",
+    "position": "Front-end developer",
+    "mode": "Full time",
+    "residence": "Residence: Kyiv, Ukraine",
+    "phone": "Phone",
+    "mail": "E-mail",
+    "skills-title": "Technical skills",
+    "experience-title": "Experience",
+    "experience-dyisy-date": "OCT 2020 – PRESENT",
+    "experience-dyisy-description": "Building a SPA frontend part using Angular 2+ (building components, services and interfaces; styling of components HTML templates according to client’s style guide). Work with template driven and reactive forms. Using 'highcharts' charting library.",
+    "experience-iternal-date": "OCT 2019 – SEPT 2020",
+    "experience-iternal-description": "Development of Single Page Application (SPA) frontend part. Integration of frontend part with REST API backend. Adaptation of HTML markup according to required frontend features both for mobile and desktop platforms.",
+    "experience-tekrum-date": "MAY 2019 – OCT 2019",
+    "experience-tekrum-description": "Development of adaptive landing pages mainly using Bootstrap. Creation of simple animations on these pages.",
+    "education-title": "Education",
+    "education-university": "National Aviation University",
+    "education-faculty": "Master Degree in Systems of Air Navigation Service.",
+    "courses-title": "Courses and certificates",
+    "courses-maximilian": "Udemy – Angular 2+ – The Complete Guide [Maximilian Schwarzmüller]",
+    "courses-minin": "Udemy - Angular 9. Theory and practice [Vladilen Minin]",
+    "courses-learnjs": "Learn.javascript - Intensive by RxJS",
+    "courses-udemyjs": "Udemy - The Complete Guide of JavaScript - from scratch to result.",
+    "courses-academyjs": "HTML Academy Professional JavaScript.",
+    "courses-academyhtml": "HTML Academy Professional HTML and CSS.",
+    "courses-borisov": "Courses HTML and CSS. 'Specialist' Igor Borysov.",
+    "languages-title": "Languages",
+    "languages-uk": "Ukrainian – native;",
+    "languages-en": "English – pre-intermediate;",
+    "languages-ru": "Russian – fluent.",
+    "soft-skils-title": "Soft Skills",
+    "soft-skils-a": "Familiar with Scrum methodology.",
+    "soft-skils-b": "Keen on perfection in any detail of UI and code styling.",
+    "soft-skils-c": "Extremely motivated to learn new technologies to become an expert in IT.",
+    "soft-skils-d": "Able to manage time effectively and self-organize to meet deadlines.",
+    "soft-skils-e": "Demonstrate passion and persistence to studying."
+  }
+}

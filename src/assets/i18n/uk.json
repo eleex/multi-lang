@@ -1,0 +1,52 @@
+
+{
+  "app-languages": {
+    "select": "Оберіть мову",
+    "en": "Англійська",
+    "uk": "Українська"
+  },
+  "app-login": {
+    "form-title": "Вхід",
+    "login-placeholder": "Введіть логін",
+    "password-placeholder": "Введіть пароль",
+    "btn-submit": "Увійти",
+    "incorrect": "Некоректний логін або пароль."
+  },
+  "app-home": {
+    "name": "Будзинський Олексій",
+    "position": "Front-end розробник",
+    "mode": "Повний день",
+    "residence": "Місце проживання: Київ, Україна",
+    "phone": "Телефон",
+    "mail": "Електронна пошта",
+    "skills-title": "Технічні навички",
+    "experience-title": "Досвід",
+    "experience-dyisy-date": "Вересень 2020 – Теперішній час",
+    "experience-dyisy-description": "Створення інтерфейсної частини SPA за допомогою Angular 2+ (побудова компонентів, служб та інтерфейсів; стилі HTML-шаблонів компонентів відповідно до керівництва стилем клієнта). Робота з керованими шаблонами та реактивними формами. Використання бібліотеки діаграм 'highcharts'.",
+    "experience-iternal-date": "Жовтень 2019 – Вересень 2020",
+    "experience-iternal-description": "Розробка фронтальної частини SPA. Інтеграція інтерфейсної частини з інтерфейсом REST API. Адаптація розмітки HTML відповідно до необхідних функцій інтерфейсу як для мобільних, так і для настільних платформ.",
+    "experience-tekrum-date": "Травень 2019 – Жовтень 2019",
+    "experience-tekrum-description": "Розробка адаптивних цільових сторінок переважно з використанням Bootstrap. Створення простих анімацій на цих сторінках.",
+    "education-title": "Освіта",
+    "education-university": "Національний авіаційний університет",
+    "education-faculty": "Ступінь магістра в галузі систем аеронавігаційного обслуговування.",
+    "courses-title": "Курси та сертифікати",
+    "courses-maximilian": "Udemy – Angular 2+ – Повне керівництво [Maximilian Schwarzmüller]",
+    "courses-minin": "Udemy - Angular 9. Теорія і практика [Владилен Мінін]",
+    "courses-learnjs": "Learn.javascript - Інтенсив по RxJS",
+    "courses-udemyjs": "Udemy - Повне керівництво по JavaScript - з нуля до результату.",
+    "courses-academyjs": "HTML Academy Професійний JavaScript.",
+    "courses-academyhtml": "HTML Academy Професійний HTML та CSS.",
+    "courses-borisov": "Курс HTML та CSS. 'Спеціаліст' Ігор Борисов.",
+    "languages-title": "Мови",
+    "languages-uk": "Українська - рідна;",
+    "languages-en": "Англійська - до середнього;",
+    "languages-ru": "Російська - вільно.",
+    "soft-skils-title": "Додаткові навички",
+    "soft-skils-a": "Знайомий із методологією Scrum.",
+    "soft-skils-b": "Бажаю досконалості в будь-яких деталях інтерфейсу та стилю коду.",
+    "soft-skils-c": "Надзвичайно мотивований вивчати нові технології, щоб стати експертом в галузі ІТ.",
+    "soft-skils-d": "Здатний ефективно розпоряджатися часом та самоорганізовуватися з урахуванням термінів.",
+    "soft-skils-e": "Старання і наполегливість до навчання."
+  }
+}
